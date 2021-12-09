@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: undergradsahil.tech
+Token: fce4d94b593640ee2d4ee07dd53d4fdfae867065a65eb9ea1e67084c2430bd71
